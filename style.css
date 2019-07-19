@@ -1,0 +1,7 @@
+.no-shadows {
+    box-shadow: none!important;
+}
+
+.container{
+  margin-top: 2rem;
+}
