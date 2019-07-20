@@ -18,3 +18,10 @@ body{
         color: rgba(0,0,0,0.87) !important;
         font-weight: 500;
 }
+.tabs .tab a:focus, .tabs .tab a:focus.active {
+    background-color: rgb(154, 205, 50);
+    outline: none;
+}
+.tabs .tab a:focus, .tabs .tab a:focus.active {
+    background-color: rgba(154, 205, 50, 0.4) !important;
+}
