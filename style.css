@@ -1,7 +1,20 @@
+body{
+  background-color: yellowgreen;
+}
 .no-shadows {
     box-shadow: none!important;
 }
-
 .container{
   margin-top: 2rem;
+}
+.tabs .tab a:hover, .tabs .tab a.active {
+    color: #9acd32 !important;
+}
+
+.tabs .indicator {
+    background-color: #9acd32 !important;
+}
+.tabs .tab a {
+        color: rgba(0,0,0,0.87) !important;
+        font-weight: 500;
 }
